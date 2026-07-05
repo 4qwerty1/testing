@@ -1,0 +1,8 @@
+Type:          Single, Span, Stripe, Mirror, RAID-5
+Size:          10, 100, 500, 1000, 5000, 10000, 40000
+Format method: Quick, Slow
+File system:   FAT, FAT32, NTFS
+Compression:   On, Off
+
+if [Type] = "RAID-5" then [Compression] = "Off";
+if [Size] >= 500 then [Format method] = "Quick";
