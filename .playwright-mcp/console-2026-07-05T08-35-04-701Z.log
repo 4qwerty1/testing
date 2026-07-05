@@ -1,0 +1,33 @@
+[     339ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[     340ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   10241ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   10242ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   10283ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   10283ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   10291ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   10291ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   10466ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   10467ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   10474ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   10474ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   10664ms] [ERROR] Failed to load resource: the server responded with a status of 503 () @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/api/v1/tariffs/price?tariff=glossy&duration=0.05714285714285714:0
+[   10822ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   10823ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   21753ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   21753ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   21953ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   21954ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   22143ms] [ERROR] Failed to load resource: the server responded with a status of 503 () @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/api/v1/tariffs/price?tariff=glossy&duration=0.05714285714285714:0
+[   22185ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   22185ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   26806ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   26806ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   26837ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   26837ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   26842ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   26842ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   36794ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   36795ms] [LOG] {tariff: Object} @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/static/js/main.17c8bf6e.chunk.js:0
+[   60656ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/api/v1/order:0
+[  146493ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/api/v1/order:0
+[  180143ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://6652a4ee-97b0-4a4d-bb1f-5a522b02cacb.serverhub.praktikum-services.ru/api/v1/order:0

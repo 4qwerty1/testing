@@ -1,0 +1,81 @@
+- generic [ref=e3]:
+  - generic [ref=e4] [cursor=pointer]:
+    - generic [ref=e5]:
+      - img "Яндекс" [ref=e6]
+      - generic [ref=e7]: Учебный тренажёр
+    - generic [ref=e8]:
+      - generic [ref=e13]:
+        - textbox "Откуда" [ref=e14]:
+          - /placeholder: Хамовнический Вал, 18
+        - generic [ref=e15]: Откуда
+        - button [ref=e16]
+      - generic [ref=e21]:
+        - textbox "Куда" [ref=e22]:
+          - /placeholder: Льва Толстого, 16
+        - generic [ref=e23]: Куда
+        - button [ref=e24]
+    - generic [ref=e25]:
+      - generic:
+        - generic:
+          - generic: Оптимальный
+          - generic: Быстрый
+          - generic: Свой
+        - generic:
+          - generic:
+            - img
+          - generic:
+            - img
+          - generic:
+            - img
+          - generic:
+            - img
+          - generic:
+            - img
+          - generic:
+            - img
+      - generic:
+        - button
+        - generic:
+          - generic:
+            - generic:
+              - img "Повседневный"
+            - generic: Повседневный
+            - generic: 150 ₽
+          - generic:
+            - generic:
+              - img "Походный"
+            - generic: Походный
+            - generic: 250 ₽
+          - generic:
+            - generic:
+              - img "Роскошный"
+            - generic: Роскошный
+            - generic: 300 ₽
+        - generic:
+          - generic:
+            - generic: Добавить права
+          - generic:
+            - generic: Способ оплаты
+            - generic:
+              - generic: Наличные
+              - generic:
+                - img "cash"
+              - generic:
+                - img "Arrow right"
+          - generic:
+            - generic:
+              - generic: Требования к заказу
+              - generic:
+                - img "Arrow"
+  - generic [ref=e30]:
+    - generic:
+      - generic [ref=e35]:
+        - link "Условия использования" [ref=e39] [cursor=pointer]:
+          - /url: https://yandex.ru/legal/maps_termsofuse/?lang=ru
+        - link [ref=e41] [cursor=pointer]:
+          - /url: ""
+      - generic [ref=e43]:
+        - generic "Открыть в Яндекс Картах" [ref=e44]:
+          - generic [ref=e48] [cursor=pointer]: Открыть в Яндекс Картах
+        - link "Создать свою карту" [ref=e49] [cursor=pointer]:
+          - /url: "https://tech.yandex.ru/maps/mapsapi/?from=api-maps "

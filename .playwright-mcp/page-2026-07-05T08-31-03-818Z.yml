@@ -1,0 +1,181 @@
+- generic [ref=e3]:
+  - generic [ref=e4] [cursor=pointer]:
+    - generic [ref=e5]:
+      - img "Яндекс" [ref=e6]
+      - generic [ref=e7]: Учебный тренажёр
+    - generic [ref=e8]:
+      - generic [ref=e13]:
+        - textbox "Откуда" [ref=e14]:
+          - /placeholder: Хамовнический Вал, 18
+          - text: Зубовский бульвар, 37
+        - generic [ref=e15]: Откуда
+        - button [ref=e16]
+      - generic [ref=e21]:
+        - textbox "Куда" [ref=e22]:
+          - /placeholder: Льва Толстого, 16
+          - text: Фрунзенская набережная, 46
+        - generic [ref=e23]: Куда
+        - button [ref=e24]
+    - generic [ref=e25]:
+      - generic:
+        - generic:
+          - generic: Оптимальный
+          - generic: Быстрый
+          - generic: Свой
+        - generic:
+          - generic:
+            - img
+          - generic:
+            - img
+          - generic:
+            - img
+          - generic:
+            - img
+          - generic:
+            - img
+          - generic:
+            - img
+        - generic:
+          - generic:
+            - generic: Такси ~ 188 руб.
+            - generic: В пути 3 мин.
+            - button "Вызвать такси"
+          - generic:
+            - img "Taxi"
+      - generic [ref=e216]:
+        - button [ref=e217]
+        - generic [ref=e218]:
+          - generic [ref=e219]:
+            - img "Рабочий" [ref=e222]
+            - generic [ref=e223]: Рабочий
+            - generic [ref=e224]: 188 ₽
+          - generic [ref=e225]:
+            - img "Сонный" [ref=e227]
+            - generic [ref=e228]: Сонный
+            - generic [ref=e229]: 225 ₽
+          - generic [ref=e230]:
+            - img "Отпускной" [ref=e232]
+            - generic [ref=e233]: Отпускной
+            - generic [ref=e234]: 242 ₽
+          - generic [ref=e235]:
+            - button [ref=e275]
+            - img "Разговорчивый" [ref=e237]
+            - generic [ref=e238]: Разговорчивый
+            - generic [ref=e239]: 225 ₽
+          - generic [ref=e240]:
+            - img "Утешительный" [ref=e242]
+            - generic [ref=e243]: Утешительный
+            - generic [ref=e244]: 278 ₽
+          - generic [ref=e245]:
+            - img "Глянцевый" [ref=e247]
+            - generic [ref=e248]: Глянцевый
+            - generic [ref=e249]: 5 ₽
+        - generic [ref=e250]:
+          - generic [ref=e252]: Телефон
+          - generic [ref=e253]:
+            - generic [ref=e254]: Способ оплаты
+            - generic [ref=e255]:
+              - generic [ref=e256]: Наличные
+              - img "cash" [ref=e258]
+              - img "Arrow right" [ref=e260]
+          - generic [ref=e262]:
+            - textbox "Комментарий водителю..." [ref=e263]:
+              - /placeholder: Захватите виски
+            - generic [ref=e264]: Комментарий водителю...
+          - generic [ref=e265]:
+            - generic [ref=e266]:
+              - generic [ref=e267]: Требования к заказу
+              - img "Arrow" [ref=e269]
+            - generic [ref=e276]:
+              - generic [ref=e278]:
+                - generic [ref=e279]: Столик для ноутбука
+                - generic [ref=e281]:
+                  - checkbox
+              - generic [ref=e284]:
+                - generic [ref=e285]:
+                  - generic [ref=e286]: Ведёрко с мороженым
+                  - generic [ref=e287]: В тариф «Утешительный»
+                - generic [ref=e289]:
+                  - img "Утешительный" [ref=e290]
+                  - img "Arrow right" [ref=e291]
+              - generic [ref=e293]:
+                - generic [ref=e294]:
+                  - generic [ref=e295]: Массажное кресло
+                  - generic [ref=e296]: В тариф «Отпускной»
+                - generic [ref=e298]:
+                  - img "Отпускной" [ref=e299]
+                  - img "Arrow right" [ref=e300]
+    - button "Ввести номер и заказать Маршрут составит 3 км. и займёт 3 мин." [active] [ref=e271]:
+      - generic [ref=e272]: Ввести номер и заказать
+      - generic [ref=e273]: Маршрут составит 3 км. и займёт 3 мин.
+  - generic [ref=e30]:
+    - generic:
+      - generic [ref=e35]:
+        - generic [ref=e37]:
+          - text: © Яндекс
+          - link "Условия использования" [ref=e39] [cursor=pointer]:
+            - /url: https://yandex.ru/legal/maps_termsofuse/?lang=ru
+        - link [ref=e41] [cursor=pointer]:
+          - /url: https://yandex.ru/maps/?origin=jsapi21&ll=37.572764,55.724452&z=14&l=map&from=api-maps
+      - generic [ref=e43]:
+        - generic "Открыть маршрут" [ref=e85]:
+          - generic [ref=e48] [cursor=pointer]: Открыть маршрут
+        - link "API Карт" [ref=e274] [cursor=pointer]:
+          - /url: "https://tech.yandex.ru/maps/mapsapi/?from=api-maps "
+    - generic:
+      - generic [ref=e92] [cursor=pointer]: Зубовский бульвар, 37
+      - generic [ref=e100] [cursor=pointer]: Фрунзенская набережная, 46
+    - generic:
+      - generic:
+        - generic:
+          - img [ref=e102]
+          - img [ref=e105]
+          - img [ref=e108]
+          - img [ref=e111]
+          - img [ref=e114]
+          - img [ref=e117]
+          - img [ref=e120]
+          - img [ref=e123]
+          - img [ref=e126]
+          - img [ref=e129]
+          - img [ref=e132]
+          - img [ref=e135]
+          - img [ref=e138]
+          - img [ref=e141]
+          - img [ref=e144]
+          - img [ref=e147]
+          - img [ref=e150]
+          - img [ref=e153]
+          - img [ref=e156]
+          - img [ref=e159]
+          - img [ref=e162]
+          - img [ref=e165]
+          - img [ref=e168]
+          - img [ref=e171]
+          - img [ref=e174]
+          - img [ref=e177]
+          - img [ref=e180]
+          - img [ref=e183]
+          - img [ref=e186]
+          - img [ref=e189]
+          - img [ref=e192]
+          - img [ref=e195]
+          - img [ref=e198]
+          - img [ref=e201]
+          - img [ref=e204]
+          - img [ref=e207]
+          - img [ref=e210]
+          - img [ref=e213]
+  - generic [ref=e303]:
+    - generic [ref=e305]:
+      - generic [ref=e306]: Поиск машины
+      - generic [ref=e307]: 00:16
+    - generic [ref=e309]:
+      - generic [ref=e310]:
+        - button "close" [ref=e311] [cursor=pointer]:
+          - img "close" [ref=e312]
+        - generic [ref=e313]: Отменить
+      - generic [ref=e314]:
+        - button "burger" [ref=e315] [cursor=pointer]:
+          - img "burger" [ref=e316]
+        - generic [ref=e317]: Детали

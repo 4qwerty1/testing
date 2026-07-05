@@ -1,0 +1,150 @@
+- generic [ref=f3e3]:
+  - generic [ref=f3e4] [cursor=pointer]:
+    - generic [ref=f3e5]:
+      - img "Яндекс" [ref=f3e6]
+      - generic [ref=f3e7]: Учебный тренажёр
+    - generic [ref=f3e8]:
+      - generic [ref=f3e13]:
+        - textbox "Откуда" [ref=f3e14]:
+          - /placeholder: Хамовнический Вал, 18
+          - text: Зубовский бульвар, 37
+        - generic [ref=f3e15]: Откуда
+        - button [ref=f3e16]
+      - generic [ref=f3e21]:
+        - textbox "Куда" [ref=f3e22]:
+          - /placeholder: Льва Толстого, 16
+          - text: Фрунзенская набережная, 46
+        - generic [ref=f3e23]: Куда
+        - button [ref=f3e24]
+    - generic [ref=f3e25]:
+      - generic [ref=f3e61]:
+        - generic [ref=f3e62]:
+          - generic [ref=f3e63]: Оптимальный
+          - generic [ref=f3e64]: Быстрый
+          - generic [ref=f3e65]: Свой
+        - generic [ref=f3e66]:
+          - img [ref=f3e68]
+          - img [ref=f3e70]
+          - img [ref=f3e72]
+          - img [ref=f3e74]
+          - img [ref=f3e76]
+          - img [ref=f3e78]
+        - generic [ref=f3e79]:
+          - generic [ref=f3e80]:
+            - generic [ref=f3e81]: Такси ~ 188 руб.
+            - generic [ref=f3e82]: В пути 3 мин.
+            - button "Вызвать такси" [ref=f3e83]
+          - img "Taxi" [ref=f3e85]
+      - generic:
+        - button
+        - generic:
+          - generic:
+            - button
+            - generic:
+              - img "Рабочий"
+            - generic: Рабочий
+            - generic: 188 ₽
+          - generic:
+            - generic:
+              - img "Сонный"
+            - generic: Сонный
+            - generic: 225 ₽
+          - generic:
+            - generic:
+              - img "Отпускной"
+            - generic: Отпускной
+            - generic: 242 ₽
+          - generic:
+            - generic:
+              - img "Разговорчивый"
+            - generic: Разговорчивый
+            - generic: 225 ₽
+          - generic:
+            - generic:
+              - img "Утешительный"
+            - generic: Утешительный
+            - generic: 278 ₽
+          - generic:
+            - generic:
+              - img "Глянцевый"
+            - generic: Глянцевый
+            - generic: 5 ₽
+        - generic:
+          - generic:
+            - generic: Телефон
+          - generic:
+            - generic: Способ оплаты
+            - generic:
+              - generic: Наличные
+              - generic:
+                - img "cash"
+              - generic:
+                - img "Arrow right"
+          - generic:
+            - generic:
+              - textbox "Комментарий водителю...":
+                - /placeholder: Захватите виски
+              - generic: Комментарий водителю...
+          - generic:
+            - generic:
+              - generic: Требования к заказу
+              - generic:
+                - img "Arrow"
+  - generic [ref=f3e30]:
+    - generic:
+      - generic [ref=f3e35]:
+        - generic [ref=f3e37]:
+          - text: © Яндекс
+          - link "Условия использования" [ref=f3e39] [cursor=pointer]:
+            - /url: https://yandex.ru/legal/maps_termsofuse/?lang=ru
+        - link [ref=f3e41] [cursor=pointer]:
+          - /url: ""
+      - generic [ref=f3e43]:
+        - generic "Открыть маршрут" [ref=f3e86]:
+          - generic [ref=f3e48] [cursor=pointer]: Открыть маршрут
+        - link "API Карт" [ref=f3e60] [cursor=pointer]:
+          - /url: "https://tech.yandex.ru/maps/mapsapi/?from=api-maps "
+    - generic:
+      - generic [ref=f3e93] [cursor=pointer]: Зубовский бульвар, 37
+      - generic [ref=f3e101] [cursor=pointer]: Фрунзенская набережная, 46
+    - generic:
+      - generic:
+        - generic:
+          - img [ref=f3e103]
+          - img [ref=f3e106]
+          - img [ref=f3e109]
+          - img [ref=f3e112]
+          - img [ref=f3e115]
+          - img [ref=f3e118]
+          - img [ref=f3e121]
+          - img [ref=f3e124]
+          - img [ref=f3e127]
+          - img [ref=f3e130]
+          - img [ref=f3e133]
+          - img [ref=f3e136]
+          - img [ref=f3e139]
+          - img [ref=f3e142]
+          - img [ref=f3e145]
+          - img [ref=f3e148]
+          - img [ref=f3e151]
+          - img [ref=f3e154]
+          - img [ref=f3e157]
+          - img [ref=f3e160]
+          - img [ref=f3e163]
+          - img [ref=f3e166]
+          - img [ref=f3e169]
+          - img [ref=f3e172]
+          - img [ref=f3e175]
+          - img [ref=f3e178]
+          - img [ref=f3e181]
+          - img [ref=f3e184]
+          - img [ref=f3e187]
+          - img [ref=f3e190]
+          - img [ref=f3e193]
+          - img [ref=f3e196]
+          - img [ref=f3e199]
+          - img [ref=f3e202]
+          - img [ref=f3e205]
+          - img [ref=f3e208]
+          - img [ref=f3e211]
+          - img [ref=f3e214]
