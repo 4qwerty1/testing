@@ -1,0 +1,48 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "bg-sidebar-desktop" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e8]: "1"
+        - paragraph [ref=e9]:
+          - text: ШАГ 1
+          - text: ВАШИ ДАННЫЕ
+      - generic [ref=e10]:
+        - generic [ref=e11]: "2"
+        - paragraph [ref=e12]:
+          - text: ШАГ 2
+          - text: ВЫБЕРИ ПЛАН
+      - generic [ref=e13]:
+        - generic [ref=e14]: "3"
+        - paragraph [ref=e15]:
+          - text: ШАГ 3
+          - text: ДОБАВЬ ОПЦИИ
+      - generic [ref=e16]:
+        - generic [ref=e17]: "4"
+        - paragraph [ref=e18]:
+          - text: ШАГ 4
+          - text: ПОДТВЕРЖДЕНИЕ
+  - generic [ref=e28]:
+    - heading "Выбери план" [level=3] [ref=e29]
+    - paragraph [ref=e30]: Можно оплачивать каждый месяц или раз в год.
+    - generic [ref=e31]:
+      - generic [ref=e32] [cursor=pointer]:
+        - img "icon-arcade" [ref=e33]
+        - generic [ref=e34]:
+          - heading "Standard" [level=4] [ref=e35]
+          - paragraph [ref=e36]: 900 руб/мес
+      - generic [ref=e37] [cursor=pointer]:
+        - img "icon-advanced" [ref=e38]
+        - generic [ref=e39]:
+          - heading "Advanced" [level=4] [ref=e40]
+          - paragraph [ref=e41]: 1200 руб/мес
+      - generic [ref=e42] [cursor=pointer]:
+        - img "icon-pro" [ref=e43]
+        - generic [ref=e44]:
+          - heading "Pro" [level=4] [ref=e45]
+          - paragraph [ref=e46]: 1500 руб/мес
+    - generic [ref=e47]:
+      - heading "Каждый месяц" [level=5] [ref=e48]
+      - heading "Раз в год" [level=5] [ref=e52]
+    - button "Назад" [ref=e53] [cursor=pointer]
+    - button "Далее" [ref=e54] [cursor=pointer]

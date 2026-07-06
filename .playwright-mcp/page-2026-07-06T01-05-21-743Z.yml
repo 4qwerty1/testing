@@ -1,0 +1,35 @@
+- generic [ref=f1e3]:
+  - generic [ref=f1e4]:
+    - img "bg-sidebar-desktop" [ref=f1e5]
+    - generic [ref=f1e6]:
+      - generic [ref=f1e7]:
+        - generic [ref=f1e8]: "1"
+        - paragraph [ref=f1e9]:
+          - text: ШАГ 1
+          - text: ВАШИ ДАННЫЕ
+      - generic [ref=f1e10]:
+        - generic [ref=f1e11]: "2"
+        - paragraph [ref=f1e12]:
+          - text: ШАГ 2
+          - text: ВЫБЕРИ ПЛАН
+      - generic [ref=f1e13]:
+        - generic [ref=f1e14]: "3"
+        - paragraph [ref=f1e15]:
+          - text: ШАГ 3
+          - text: ДОБАВЬ ОПЦИИ
+      - generic [ref=f1e16]:
+        - generic [ref=f1e17]: "4"
+        - paragraph [ref=f1e18]:
+          - text: ШАГ 4
+          - text: ПОДТВЕРЖДЕНИЕ
+  - generic [ref=f1e20]:
+    - heading "Персональные данные" [level=3] [ref=f1e21]
+    - paragraph [ref=f1e22]: Пожалуйста, введите ваше имя, адрес электронной почты и телефон.
+    - generic [ref=f1e23]:
+      - text: Имя
+      - textbox "Александр Пушкин" [ref=f1e24] [cursor=pointer]: Иван Иванов
+      - text: Email
+      - textbox "poet@mail.ru" [ref=f1e25] [cursor=pointer]: ivan@mail.ru
+      - text: Телефон
+      - textbox "+7 999 888 77 66" [ref=f1e26] [cursor=pointer]: "+79998887766"
+      - button "Далее" [ref=f1e27] [cursor=pointer]

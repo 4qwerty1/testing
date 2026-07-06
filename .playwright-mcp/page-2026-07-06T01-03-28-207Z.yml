@@ -1,0 +1,48 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "bg-sidebar-desktop" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e8]: "1"
+        - paragraph [ref=e9]:
+          - text: ШАГ 1
+          - text: ВАШИ ДАННЫЕ
+      - generic [ref=e10]:
+        - generic [ref=e11]: "2"
+        - paragraph [ref=e12]:
+          - text: ШАГ 2
+          - text: ВЫБЕРИ ПЛАН
+      - generic [ref=e13]:
+        - generic [ref=e14]: "3"
+        - paragraph [ref=e15]:
+          - text: ШАГ 3
+          - text: ДОБАВЬ ОПЦИИ
+      - generic [ref=e16]:
+        - generic [ref=e17]: "4"
+        - paragraph [ref=e18]:
+          - text: ШАГ 4
+          - text: ПОДТВЕРЖДЕНИЕ
+  - generic [ref=e55]:
+    - heading "Добавь опции" [level=3] [ref=e56]
+    - paragraph [ref=e57]: Дополнительные опции помогают улучшить игровой опыт.
+    - generic [ref=e58]:
+      - generic [ref=e59] [cursor=pointer]:
+        - img [ref=e60]
+        - generic [ref=e62]:
+          - heading "Играть онлайн" [level=4] [ref=e63]
+          - paragraph [ref=e64]: Доступ к многопользовательским играм
+        - generic [ref=e65]: +100р/м
+      - generic [ref=e66] [cursor=pointer]:
+        - img [ref=e67]
+        - generic [ref=e69]:
+          - heading "Больше места для хранения" [level=4] [ref=e70]
+          - paragraph [ref=e71]: Дополнительный 1 ТБ в облаке
+        - generic [ref=e72]: +200руб/мес
+      - generic [ref=e73] [cursor=pointer]:
+        - img [ref=e74]
+        - generic [ref=e76]:
+          - heading "Настраиваемый профиль" [level=4] [ref=e77]
+          - paragraph [ref=e78]: Пользовательская тема в вашем профиле
+        - generic [ref=e79]: +200р/м
+    - button "Назад" [ref=e80] [cursor=pointer]
+    - button "Далее" [ref=e81] [cursor=pointer]

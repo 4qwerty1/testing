@@ -1,0 +1,28 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "bg-sidebar-desktop" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e8]: "1"
+        - paragraph [ref=e9]:
+          - text: ШАГ 1
+          - text: ВАШИ ДАННЫЕ
+      - generic [ref=e10]:
+        - generic [ref=e11]: "2"
+        - paragraph [ref=e12]:
+          - text: ШАГ 2
+          - text: ВЫБЕРИ ПЛАН
+      - generic [ref=e13]:
+        - generic [ref=e14]: "3"
+        - paragraph [ref=e15]:
+          - text: ШАГ 3
+          - text: ДОБАВЬ ОПЦИИ
+      - generic [ref=e16]:
+        - generic [ref=e17]: "4"
+        - paragraph [ref=e18]:
+          - text: ШАГ 4
+          - text: ПОДТВЕРЖДЕНИЕ
+  - generic [ref=e104]:
+    - img "icon-thank-you" [ref=e105]
+    - heading "Спасибо!" [level=3] [ref=e106]
+    - paragraph [ref=e107]: Спасибо за подписку! Мы надеемся, что вам понравится использовать нашу платформу. Если вам когда-нибудь понадобится поддержка, напишите нам по адресу support@loremgaming.com.
