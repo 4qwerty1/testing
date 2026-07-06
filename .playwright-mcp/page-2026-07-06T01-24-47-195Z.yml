@@ -1,0 +1,35 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "bg-sidebar-desktop" [ref=e5]
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e8]: "1"
+        - paragraph [ref=e9]:
+          - text: ШАГ 1
+          - text: ВАШИ ДАННЫЕ
+      - generic [ref=e10]:
+        - generic [ref=e11]: "2"
+        - paragraph [ref=e12]:
+          - text: ШАГ 2
+          - text: ВЫБЕРИ ПЛАН
+      - generic [ref=e13]:
+        - generic [ref=e14]: "3"
+        - paragraph [ref=e15]:
+          - text: ШАГ 3
+          - text: ДОБАВЬ ОПЦИИ
+      - generic [ref=e16]:
+        - generic [ref=e17]: "4"
+        - paragraph [ref=e18]:
+          - text: ШАГ 4
+          - text: ПОДТВЕРЖДЕНИЕ
+  - generic [ref=e20]:
+    - heading "Персональные данные" [level=3] [ref=e21]
+    - paragraph [ref=e22]: Пожалуйста, введите ваше имя, адрес электронной почты и телефон.
+    - generic [ref=e23]:
+      - text: Имя
+      - textbox "Александр Пушкин" [ref=e24] [cursor=pointer]
+      - text: Email
+      - textbox "poet@mail.ru" [ref=e25] [cursor=pointer]
+      - text: Телефон
+      - textbox "+7 999 888 77 66" [ref=e26] [cursor=pointer]
+      - button "Далее" [ref=e27] [cursor=pointer]
