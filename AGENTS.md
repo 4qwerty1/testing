@@ -16,6 +16,9 @@
 ## File and Tooling Conventions
 - Use ASCII by default unless a file already requires another character set.
 - Add comments only when they materially improve comprehension.
+- Use the project's `uv` environment by default for Python work in this repository.
+- Treat packages installed into the project `uv` environment as the source of truth for dependencies available during work sessions.
+- When additional Python packages are needed for the task, install them into the project `uv` environment instead of using a global interpreter.
 - Do not add dependencies, build tools, or frameworks unless the task requires them.
 
 ## Validation
